@@ -9,8 +9,10 @@ This app allows users to rent phones either hourly or daily. Admins can manage p
    ```bash
    cd backend
 
-Install dependencies
+2. Install dependencies:
+```bash
   npm install
-
-Run the backend server
+```
+3. Run the backend server:
+```bash
   npm run start:dev
